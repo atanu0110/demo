@@ -1,3 +1,3 @@
 #Demo Project
 
-This is a demo project. Change this file
+This is a demo project. Inside the bad-merge branch
